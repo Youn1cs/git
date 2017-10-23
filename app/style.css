@@ -2,7 +2,7 @@ body {
     font-size: 16px;
     font-family: Verdana;
     color: #333;
-
+    background-color: #333;
 
 }
 
@@ -10,3 +10,4 @@ h1 {
     font-size: 36px;
     text-align: center;
 }
+
